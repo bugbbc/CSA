@@ -1,0 +1,37 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# experiment outputs
+results/
+tables/
+figures/
+logs/
+reports/
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# large files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.npz
+*.npy
+*.csv
+*.tsv
+*.log
+
+# system/editor
+.DS_Store
+.vscode/
+.idea/
